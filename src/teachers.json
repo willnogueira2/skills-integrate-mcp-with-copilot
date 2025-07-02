@@ -1,0 +1,16 @@
+{
+  "teachers": {
+    "admin@mergington.edu": {
+      "password": "MergingtonAdmin2024!",
+      "name": "School Administrator"
+    },
+    "teacher1@mergington.edu": {
+      "password": "TeacherPass123!",
+      "name": "Ms. Johnson"
+    },
+    "teacher2@mergington.edu": {
+      "password": "TeacherPass456!",
+      "name": "Mr. Smith"
+    }
+  }
+}
